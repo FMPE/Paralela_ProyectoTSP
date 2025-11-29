@@ -263,7 +263,7 @@ int main() {
     };
     
     // Configuración del experimento
-    int sample_size = 12;
+    int sample_size = 10;
 
     std::cout << "=== CONFIGURACION DEL EXPERIMENTO ===\n";
     std::cout << "Ciudades disponibles: " << all_cities.size() << std::endl;
